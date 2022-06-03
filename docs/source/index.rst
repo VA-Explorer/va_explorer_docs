@@ -12,24 +12,12 @@ Contents
 --------
 
 .. toctree::
-  :maxdepth: 1
-  :hidden:
-
-  overview
-
-.. toctree::
   :hidden:
   :maxdepth: 1
   :caption: Overview
 
   overview-background
   overview-support
-
-.. toctree::
-  :maxdepth: 1
-  :hidden:
-
-  getting-started
 
 .. toctree::
   :hidden:
@@ -44,7 +32,7 @@ Contents
 
 .. toctree::
   :hidden:
-  :maxdepth: 2
+  :maxdepth: 1
   :caption: Training
 
   training-general
@@ -54,7 +42,7 @@ Contents
 
 .. toctree::
   :hidden:
-  :maxdepth: 2
+  :maxdepth: 1
   :caption: Reference
 
   ref-security-privacy
