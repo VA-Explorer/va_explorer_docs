@@ -12,38 +12,38 @@ Contents
 --------
 
 .. toctree::
-  :hidden:
-  :maxdepth: 1
-  :caption: Overview
-
-  overview-background
-  overview-support
-
-.. toctree::
-  :hidden:
-  :maxdepth: 1
-  :caption: Getting Started
-
-  getting-started-installation
-  getting-started-deployment
-  getting-started-management
-  getting-started-configuration
-  getting-started-tips
+   :hidden:
+   :maxdepth: 1
+   :caption: Overview
+  
+   overview-background
+   overview-support
 
 .. toctree::
-  :hidden:
-  :maxdepth: 1
-  :caption: Training
+   :hidden:
+   :maxdepth: 1
+   :caption: Getting Started
 
-  training-general
-  training-admin
-  training-data-viewer
-  training-field-worker
+   getting-started-installation
+   getting-started-deployment
+   getting-started-management
+   getting-started-configuration
+   getting-started-tips
 
 .. toctree::
-  :hidden:
-  :maxdepth: 1
-  :caption: Reference
+   :hidden:
+   :maxdepth: 1
+   :caption: Training
 
-  ref-security-privacy
-  ref-license
+   training-general
+   training-admin
+   training-data-viewer
+   training-field-worker
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: Reference
+
+   ref-security-privacy
+   ref-license
